@@ -24,7 +24,7 @@ The goal is to accurately predict the Length of Stay for each patient on case by
 ![alt text](https://media.giphy.com/media/l0HlN9x6QpEhF3Oqk/giphy.gif)
 
 
-# We have done the Visualisations as follows:
+# We have done the following Visualizations:
 Length of Stay for each case of patients
 
 Stay by Patient ID using Column Chart
