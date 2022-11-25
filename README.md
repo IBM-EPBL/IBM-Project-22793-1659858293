@@ -40,3 +40,9 @@ Dashboard Creation
 Department wise no. of admissions by Waterfall Chart
 
 and etc...
+
+# QUICK DEMO LINK
+https://youtu.be/LyiqITbau9k
+
+# EXPLANATION VIDEO LINK
+https://youtu.be/30RimMGhGQk
