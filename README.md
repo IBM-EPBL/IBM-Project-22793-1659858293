@@ -39,3 +39,4 @@ Dashboard Creation
 
 Department wise no. of admissions by Waterfall Chart
 
+and etc...
