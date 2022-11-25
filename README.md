@@ -20,6 +20,6 @@ Goal:
  
 
 The goal is to accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days.
-<p align="center">
+
 ![alt text](https://media.giphy.com/media/l0HlN9x6QpEhF3Oqk/giphy.gif)
-</p>
+
